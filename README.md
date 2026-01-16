@@ -15,8 +15,10 @@ coursework.
 - `README.md` — Repository overview and PDF link
 
 ## Course Information
-**Course:** CSCI 2020U: Software Systems Development and Integration
+**Course:** CSCI 2020U: Software Systems Development and Integration 
+
 **Lab:** 01
+
 **Topic:** Version control
 
 ---
