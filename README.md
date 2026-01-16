@@ -1,7 +1,7 @@
 # CSCI 2020 – Lab 01: Version Control
 
  **Lab Report (PDF)**  
-[View Lab 01 – Version Control (PDF)](Lab 01 - Version Control.pdf)
+[View Lab 01 – Version Control (PDF)](Lab01_Version_Control.pdf)
 
 ---
 
