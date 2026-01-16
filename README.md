@@ -19,6 +19,6 @@ coursework.
 
 **Lab:** 01
 
-**Topic:** Version control
+**Topic:** Version control!
 
 ---
